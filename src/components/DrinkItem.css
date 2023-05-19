@@ -1,0 +1,8 @@
+.drink-item{
+    margin-top: 2em;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+}
